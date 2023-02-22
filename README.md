@@ -1,0 +1,1 @@
+an assignment to solve problems in sympy_assignment.pdf using sympy
